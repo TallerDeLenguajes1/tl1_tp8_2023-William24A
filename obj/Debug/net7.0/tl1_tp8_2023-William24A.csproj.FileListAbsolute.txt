@@ -1,0 +1,5 @@
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\tl1_tp8_2023-William24A.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\tl1_tp8_2023-William24A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\tl1_tp8_2023-William24A.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\tl1_tp8_2023-William24A.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\tl1_tp8_2023-William24A.csproj.CoreCompileInputs.cache
