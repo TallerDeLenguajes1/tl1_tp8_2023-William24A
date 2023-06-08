@@ -3,3 +3,13 @@ C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\tl1_tp8
 C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\tl1_tp8_2023-William24A.AssemblyInfoInputs.cache
 C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\tl1_tp8_2023-William24A.AssemblyInfo.cs
 C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\tl1_tp8_2023-William24A.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\bin\Debug\net7.0\tl1_tp8_2023-William24A.exe
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\bin\Debug\net7.0\tl1_tp8_2023-William24A.deps.json
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\bin\Debug\net7.0\tl1_tp8_2023-William24A.runtimeconfig.json
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\bin\Debug\net7.0\tl1_tp8_2023-William24A.dll
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\bin\Debug\net7.0\tl1_tp8_2023-William24A.pdb
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\tl1_tp8_2023-William24A.dll
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\refint\tl1_tp8_2023-William24A.dll
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\tl1_tp8_2023-William24A.pdb
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\tl1_tp8_2023-William24A.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\William\tl1_tp8_2023-William24A\obj\Debug\net7.0\ref\tl1_tp8_2023-William24A.dll

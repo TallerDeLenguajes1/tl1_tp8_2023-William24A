@@ -16,4 +16,11 @@ public class Tareas{
         this.duracion = duracion;
     }
 
+    public void Mostrar(){
+        Console.WriteLine("ID de la tarea:"+TareaID);
+        Console.WriteLine("Descripcion de tarea:"+Descripcion);
+        Console.WriteLine("Duracion de tarea en hs:"+Duracion);
+        
+    }
+
 }
