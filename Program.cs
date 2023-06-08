@@ -63,6 +63,7 @@ foreach(var item in MiLista){
     if(estarea){
         item.Mostrar();
     }
+    
 }
 
 
