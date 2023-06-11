@@ -154,7 +154,7 @@ try
         listaArchivos.Add(nombreA);
     } 
     // crear archivo cvs
-    using( StreamWriter archivo = new StreamWriter("index.cvs", true) ){
+    using( StreamWriter archivo = new StreamWriter("index.csv", true) ){
         archivo.WriteLine("Indice,Archivo, Extension");
         for (int i = 0; i < listaArchivos.Count ; i++)
         {
